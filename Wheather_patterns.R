@@ -38,7 +38,7 @@ weather[3]
 weather[[3]]
 weather$Houston
 
-# Raju made a change
+# Raju made a change2
 
 #Using apply()
 
